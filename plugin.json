@@ -1,8 +1,8 @@
 {
-  "id": "com.example.ai-agent",
+  "id": "com.heyitsaadin.ai-agent",
   "name": "AI Agent",
   "main": "main.js",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "readme": "readme.md",
   "icon": "icon.png",
   "files": [],

@@ -14,7 +14,7 @@
  * - "Auto-apply" (write/create without asking) is OFF by default.
  */
 
-const PLUGIN_ID = "com.example.ai-agent";
+const PLUGIN_ID = "com.heyitsaadin.ai-agent";
 const CONFIG_DIR_NAME = "ai-agent-plugin";
 const CONFIG_FILE_NAME = "config.json";
 

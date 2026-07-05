@@ -10,3 +10,7 @@
 
 ## 0.2.1
 - Fixed a first-load rendering glitch where message text looked "off" (wrong font/spacing) until the first message was sent. The container now gets an explicit font-family and a forced repaint on mount instead of relying on a later interaction to fix it.
+
+## 0.2.2
+- Replaced the placeholder plugin ID (com.example.ai-agent, copied from Acode's tutorial) with a unique one tied to the author, to avoid collisions in the store.
+- Fixed a dead link in the readme to a SETUP.md file that was never included — setup steps are now inline.
