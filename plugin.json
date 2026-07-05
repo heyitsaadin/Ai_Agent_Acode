@@ -1,0 +1,25 @@
+{
+  "id": "com.example.ai-agent",
+  "name": "AI Agent",
+  "main": "main.js",
+  "version": "0.2.1",
+  "readme": "readme.md",
+  "icon": "icon.png",
+  "files": [],
+  "minVersionCode": 950,
+  "price": 0,
+  "license": "MIT",
+  "author": {
+    "name": "Aadin",
+    "url": "https://github.com/heyitsaadin"
+  },
+  "contributors": [
+    {
+      "name": "Aadin",
+      "role": "Developer",
+      "github": "heyitsaadin"
+    }
+  ],
+  "description": "Chat with a custom AI (any OpenAI-compatible API) and let it read, write, create, and delete files in your open project.",
+  "keywords": ["ai", "agent", "vibecoding", "coding"]
+}
