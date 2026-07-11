@@ -2,7 +2,7 @@
   "id": "com.heyitsaadin.ai_agent",
   "name": "AI Agent",
   "main": "main.js",
-  "version": "0.2.4",
+  "version": "0.6.4",
   "readme": "readme.md",
   "icon": "icon.png",
   "files": [],
@@ -11,15 +11,14 @@
   "license": "MIT",
   "author": {
     "name": "Aadin",
-    "url": "https://github.com/heyitsaadin"
+    "url": "https://github.com/heyitsaadin",
+    "github": "heyitsaadin"
   },
-  "contributors": [
-    {
-      "name": "Aadin",
-      "role": "Developer",
-      "github": "heyitsaadin"
-    }
-  ],
   "description": "Chat with a custom AI (any OpenAI-compatible API) and let it read, write, create, and delete files in your open project.",
-  "keywords": ["ai", "agent", "vibecoding", "coding"]
+  "keywords": [
+    "ai",
+    "agent",
+    "vibecoding",
+    "coding"
+  ]
 }
